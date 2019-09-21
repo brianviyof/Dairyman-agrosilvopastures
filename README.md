@@ -1,0 +1,2 @@
+# Hello-world
+Dairy farming project with agrosilvopastures. Here, we train farmers how to grow healthy pastures, grow maize for silage and produce high quality milk. Developing a sustainable dairy value chain for poor communities using areas were Heifer Project International failed to address. We are reorganizing diary farmers and their ativities to meet the demands of national and international markets according to ISO standards.
